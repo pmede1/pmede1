@@ -5,7 +5,7 @@
 - You can reach me by sending an email to pmede1@banrep.gov.co. However, is recommended to copy the personal email of the current intern ([go Interns' section](#Interns)).
 
 ## Interns
-| Name                                                            | Period         | email                   |
-| :-------------------------------------------------------------: | :------------: | :---------------------: |
-| [Juan David Rengifo Castro](https://github.com/jdrengifoc)      |   20232-2041   | jdrengifoc@eafit.edu.co |
-| Naomi Calle                                                     |   20232-2041   | naomigcalle@gmail.com   |
+| Name                                                            | Period          | email                   |
+| :-------------------------------------------------------------: | :-------------: | :---------------------: |
+| [Juan David Rengifo Castro](https://github.com/jdrengifoc)      |   20232-20241   | jdrengifoc@eafit.edu.co |
+| Naomi Calle                                                     |   20222-20231   | naomigcalle@gmail.com   |
