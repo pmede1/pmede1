@@ -7,6 +7,7 @@
 ## Interns
 | Name                                                            | Period          | email                        |
 | :-------------------------------------------------------------: | :-------------: | :--------------------------: |
+| Sara Echeverri Díez                                             |   20242-20251   | secheverrd@eafit.edu.co      |
 | [Juan David Rengifo Castro](https://github.com/jdrengifoc)      |   20232-20241   | jdrengifoc@eafit.edu.co      |
 | [Naomi Calle](https://github.com/NaomiCalle)                    |   20222-20231   | naomigcalle@gmail.com        |
 | [Pablo Uribe Botero](https://github.com/PabloUribeB)            |   20212-20221   | pablouribebotero@gmail.com   |
